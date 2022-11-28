@@ -1,3 +1,4 @@
+/*
 //class component example
 //1st calling a function,then inside the function object is created
 let cls=()=>{
@@ -7,7 +8,7 @@ let details={
                  email:"muniyappamuni@gmail.com",
                  age:"23"
             }
-//inside the div htyml tags are used
+//inside the div html tags are used
 //invoking the properties using "REACT EXPRESSION{}""
 return <div>
 <h1>{name}</h1>
@@ -18,3 +19,4 @@ return <div>
 }
 //export the default cls using ES6 feature
 export default cls
+*/
